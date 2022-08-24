@@ -3,7 +3,7 @@
 Endpoint |HTTP Method | CRUD Method | Result
 -- | -- |-- |--
 `get_products` | GET | READ | Get all products
-`purchase_product/:id` | GET | READ | Purchase a product
+`purchase_product/:id` | POST | CREATE | Purchase a product
 `get_purchased` | GET | READ | Get all purchased products by user
 `create_product`| POST | CREATE | Create a new product
 `modify_product/:id` | PUT | UPDATE | Update a product
