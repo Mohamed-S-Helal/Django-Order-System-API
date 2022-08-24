@@ -12,7 +12,7 @@ Endpoint |HTTP Method | CRUD Method | Result
 ## Use
 We can test the API using [curl](https://curl.haxx.se/) or [httpie](https://github.com/jakubroztocil/httpie#installation), or we can use [Postman](https://www.postman.com/)
 
-### Commands
+### Commands using [httpie](https://github.com/jakubroztocil/httpie#installation):
 
 First we need to create a user, so we can log in
 ```
